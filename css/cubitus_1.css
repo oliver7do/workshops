@@ -1,0 +1,46 @@
+
+.div1 {
+    
+    width: 100px;
+    height: 100px;
+    border: 3px solid rgb(0, 0, 0);
+    float: left;   
+    margin-left: 4px;
+    border-radius: 8%;
+}
+.div2 {
+    width: 100px;
+    height: 100px;
+    border: 3px solid rgb(0, 0, 0);
+    float: left;
+    margin-left: 4px;
+    border-radius: 8%;
+    margin-top: 4px;
+}
+.div3 {
+    width: 100px;
+    height: 100px;
+    border: 3px solid rgb(0, 0, 0);
+    float: left;
+    margin-left: 4px;
+    border-radius: 8%;
+    margin-top: 4px;
+}
+.div4 {
+    width: 100px;
+    height: 100px;
+    border: 3px solid rgb(0, 0, 0);
+    float: left;
+    margin-left: 4px;
+    border-radius: 8%;
+    margin-top: 4px;
+}
+.clear {
+    clear: both;
+}
+.violet {
+background-color: rgb(173, 5, 239);
+}
+.vert {
+    background-color: rgb(0, 253, 34);
+}
