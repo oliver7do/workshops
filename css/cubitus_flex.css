@@ -1,0 +1,59 @@
+body {
+background: linear-gradient(to right, #da0aff 0%, #0a37ff 10%, #fbff0a 20%, #2fff0a 30%, #0af7ff 40%, #3e0cc7 100%);
+
+}
+h1 {
+    font-size: 50px;
+    margin-left: 28%;
+        padding-left: 14%;
+    color: rgb(0, 0, 0);
+        text-shadow:
+            -1px -1px 0px #FFF,
+            -1px 1px 0px #FFF,
+            1px -1px 0px #FFF,
+            1px 0px 0px #FFF;
+}
+.pere {
+    margin: auto;
+    margin-left: 30%;
+    margin-right: 35%;
+    padding-left: 0,5%;
+    display: flex;  
+    border: 2px black solid; 
+}
+div {
+    margin: 1px;
+}
+.vert {
+    background-color: #008001;
+    width: 100px;
+    height: 100px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 11% 25% 40% 40%;
+}
+.bleu {
+    background-color: #01ffff;
+    width: 100px;
+    height: 100px;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 35% 10%;
+}
+.claire {
+    background-color: #7effd4;
+    width: 100px;
+    height: 100px;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 150% 150% 150% 150%;
+}
+.rose {
+    background-color: #ea967a;
+    width: 100px;
+    height: 100px;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 10px 100px / 120px;  
+}
+.blanc {
+    width: 100px;
+    height: 100px;
+}
+

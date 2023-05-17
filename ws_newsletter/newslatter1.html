@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      table,
+      td,
+      th {
+        border: 1px solid black;
+      }
+      table {
+        border-collapse: collapse;
+        width: 75%;
+        margin: 10%;
+      }
+      tr {
+        height: 50px;
+        
+      }
+      td {
+        text-align: center;
+      }
+
+      table tr:first-child {
+        height: 190px;
+      }
+
+      table tr:nth-child(2) {
+        height: 10px;
+      }
+      table tr:t {
+        height: 120px;
+      }
+
+    </style>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <td colspan="5">
+          <p id="espace"><span style="color: #f00">Espace 1</span></p>
+        </td>
+      </tr>
+      <tr>
+        <td>Espace 2</td>
+        <td>Espace 3</td>
+        <td>Espace 4</td>
+        <td>Espace 5</td>
+        <td>Espace 6</td>
+      </tr>
+      <tr>
+        <td colspan="5">Espace 7</td>
+      </tr>
+      <tr>
+        <td colspan="5">Espace 8</td>
+      </tr>
+      <tr>
+        <td colspan="3" rowspan="2"><h2>Espace 9</h2></td>
+        <td colspan="2">Espace 10</td>
+      </tr>
+      <tr>
+        <td>Espace 11</td>
+        <td>Espace 12</td>
+      </tr>
+      <tr>
+        <td colspan="5">Espace 13</td>
+      </tr>
+    </table>
+  </body>
+</html>

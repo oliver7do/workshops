@@ -1,0 +1,51 @@
+#contenu {
+    width: 42%;
+    margin: auto;
+    border: 2px solid #9cb236;
+}
+body {
+    background-color: #ddeeaa;
+}
+header {
+    display: flex;
+    justify-content: center;
+    background-color:white;
+    width: 100%;
+}
+.ple {
+    margin-left: 100px;
+}
+.contenu_1 {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+.etape {
+        width: 139px;
+        height: 20px;
+        float: left;
+        background-color: #8fd237;
+}
+.etapee {
+        margin-left: 5px;
+        width: 139px;
+        height: 20px;
+        float: left;
+        background-color: #8fd237;
+}
+.text {
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center; 
+}
+.ima {
+    display: flex;
+}
+
+
+.pomme {
+    padding: 49%;
+    background-color: white;
+    border: 1px solid white;
+}
