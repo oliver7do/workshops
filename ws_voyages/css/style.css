@@ -1,0 +1,20 @@
+@media (min-width: 1250px) {
+    /* … */
+}
+header {
+    width: 70%;
+    margin: auto;
+    background: linear-gradient(to bottom, #70f8bb 0%, #1ec3c7 100%);
+    display: flex;
+}
+nav {
+    border-style: double;
+    width: 70%;
+    margin: auto;
+    background-color: #1ec3c7;
+}
+.letter {
+    color: #ffff;
+    text-align: end;
+    margin-right: 13px;
+}
